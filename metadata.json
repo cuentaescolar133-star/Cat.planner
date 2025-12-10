@@ -1,0 +1,5 @@
+{
+  "name": "cat.planner",
+  "description": "Un organizador de tiempo y hábitos inteligente asistido por un gato virtual impulsado por Gemini.",
+  "requestFramePermissions": []
+}
